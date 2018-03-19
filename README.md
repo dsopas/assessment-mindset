@@ -1,8 +1,10 @@
 # Security Assessment Mindset
 by David Sopas [@dsopas](https://twitter.com/dsopas)
 
+![Cool image from Char49](https://char49.com/labs/wp-content/uploads/2018/03/mindset.jpg)
+
 ## Why
-I did this to help me on my all-day security assessments (pentest, bug bounty, red-team) and to keep my work well organized.
+I did this to help me on my security assessments (pentest, bug bounty, red-team, kung) and to keep my work well organized.
 
 Each time I finished a task, I marked it with a check icon using [XMind](https://www.xmind.net/). If you don't have this tool, print the image version and use your pencil to mark it as done.
 
@@ -13,12 +15,12 @@ On some particular tasks you have notes (only in XMind format) that provide the 
 ## Formats
 If you don't have XMind software, I exported the PNG and the Freemind version. If you need other format, please let me know so I can start exporting it in future versions.
 
-## Contribute
-New tasks, tools, typos and other things you think it would help this mindset, add a new issue on dev branch on this rep for discussion and validation. This is open to all the infosec community so let us all keep things rolling.
+## How to contribute
+New tasks, tools, typos and other things you think it would help this mindmap, please **Add a new issue on dev branch** on this repo for discussion and validation. Remember that tis is open to ALL infosec community so let us all keep things rolling  :thumbsup:.
 
 ## To do
 - Mobile applications mindmap (iOS and Android)
 - Networking mindmap (currently working on this)
 - Wifi mindmap
-- IoT mindmap
+- IoT mindmap (currently working on this)
 - Export to OPML
