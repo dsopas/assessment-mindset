@@ -1,5 +1,4 @@
 # Security Assessment Mindset
-by David Sopas [@dsopas](https://twitter.com/dsopas)
 
 ![Cool image from Char49](https://char49.com/labs/wp-content/uploads/2018/03/mindset.jpg)
 
@@ -16,7 +15,7 @@ On some particular tasks you have notes (only in XMind format) that provide the 
 If you don't have XMind software, I exported the PNG and the Freemind version. If you need other format, please let me know so I can start exporting it in future versions.
 
 ## How to contribute
-New tasks, tools, typos and other things you think it would help this mindmap, please **Add a new issue on dev branch** on this repo for discussion and validation. Remember that tis is open to ALL infosec community so let us all keep things rolling  :thumbsup:.
+New tasks, tools, typos and other things you think it would help this mindmap, please **Add a new issue on dev branch** on this repo for discussion and validation. Remember that tis is open to ALL infosec community so let us all keep things rolling  :thumbsup:. Any question, feel free to ping me at [Twitter](https://www.twitter.com/dsopas).
 
 ## To do
 - Mobile applications mindmap (iOS and Android)
@@ -24,3 +23,4 @@ New tasks, tools, typos and other things you think it would help this mindmap, p
 - Wifi mindmap
 - IoT mindmap (currently working on this)
 - Export to OPML
+- Add "Thanks" section for shout people who helped in this project
