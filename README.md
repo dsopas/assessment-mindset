@@ -1,6 +1,6 @@
 # Security Assessment Mindset
 
-![Cool image from Char49](https://char49.com/labs/wp-content/uploads/2018/03/mindset.jpg)
+![Cool image from Char49](https://0xhack.com/mindset_david.png)
 
 ## Why
 I did this to help me on my security assessments (pentest, bug bounty, red-team, kung) and to keep my work well organized.
