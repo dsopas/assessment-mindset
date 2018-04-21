@@ -17,10 +17,12 @@ If you don't have XMind software, I exported the PNG, Freemind and OPML versions
 ## How to contribute
 New tasks, tools, typos and other things you think it would help this mindmap, please **Add a new issue on dev branch** on this repo for discussion and validation. Remember that tis is open to ALL infosec community so let us all keep things rolling  :thumbsup:. Any question, feel free to ping me at [Twitter](https://www.twitter.com/dsopas).
 
+## Thanks
++ Zezadas [@0xz3z4d45](https://twitter.com/0xz3z4d45)
+
 ## To do
 - Mobile applications mindmap (iOS and Android)
 - Networking mindmap (work in progress)
 - Wifi mindmap
 - IoT mindmap (work in progress)
-- Add "Thanks" section for shout people who helped in this project
 - Improve font style and colors
