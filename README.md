@@ -1,7 +1,5 @@
 # Security Assessment Mindset
 
-![Cool image from Char49](https://char49.com/labs/wp-content/uploads/2018/03/mindset.jpg)
-
 ## Why
 I did this to help me on my security assessments (pentest, bug bounty, red-team, kung foo, you name it) and to keep my work well organized.
 
